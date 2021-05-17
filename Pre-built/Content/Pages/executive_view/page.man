@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ibx-res-bundle name="page_res.xml">
+	<pgx-meta>
+		<pgx-version>1.3</pgx-version>
+		<pgx-mode>MODE_ASSEMBLE</pgx-mode>
+		<pgx-hash>c52b8cad6395c86ac996e60c2e85919fd802a6f6</pgx-hash>
+	</pgx-meta>
+	<string-file src="page.prop?IBFS_format=pgx"/>
+	<strings></strings>
+	<styles></styles>
+	<markup>
+		<markup-block>
+			<div class="pd-page-wrapper">
+				<div data-ibx-type="pdPage" data-ibxp-title="@STR_PAGE_HEADING" data-ibxp-description="@STR_PAGE_DESCRIPTION" data-ibxp-show-header="true" data-ibxp-show-toolbar="true" data-ibxp-show-refresh="true" data-ibxp-show-export="true" data-ibxp-show-pdf="true" data-ibxp-show-image="true" data-ibxp-filter-type="none" data-ibxp-filter-open="false" data-ibxp-filter-width="" data-ibxp-theme="IBFS:/WFC/Global/Themes/Standard/Default/theme.css" data-ibxp-size-class="pd-style-heading3" data-ibxp-ss-id="PAGE-KOEAUOT51BWJJYZP81616" data-ibxp-custom-class="" data-ibxp-hidden="false" data-ibxp-workbook="false" data-ibxp-show-embedded-js="true" data-ibxp-show-embedded-css="true" data-ibxp-max-width="">
+					<div data-ibx-type="pdPageSection" data-ibxp-collapsed="false" data-ibxp-description="@STR_SECTION_DESCRIPTION_1" data-ibxp-collapsible="false" data-ibxp-ss-id="SECTION-KOEAUOT5285ZH2AJI517" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color" data-ibxp-cell-height="80" data-ibxp-width="12">
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_2" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_3" data-ibxp-maximized="false" data-ibxp-show-title="false" data-ibxp-show-toolbar="false" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="0" data-ibxp-grid-y="0" data-ibxp-grid-width="2" data-ibxp-grid-height="2" data-ibxp-ss-id="CONTAINER-KOEAV1LD182E9IR821061" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_38" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_39" data-ibxp-ss-id="CONTENT-KOEAV1LY13XDKGW6Z3669" data-ibxp-iframe-name="CONTENT-KOEAV1LY13XDKGW6Z3669" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/KPIs/" data-ibxp-file="loans_to_share.fex"></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_6" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_7" data-ibxp-maximized="false" data-ibxp-show-title="false" data-ibxp-show-toolbar="false" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="2" data-ibxp-grid-y="0" data-ibxp-grid-width="2" data-ibxp-grid-height="2" data-ibxp-ss-id="CONTAINER-KOEAVJ3W1KZQLP10B811" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_40" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_41" data-ibxp-ss-id="CONTENT-KOEAVJ4F1RLFN6AMA3395" data-ibxp-iframe-name="CONTENT-KOEAVJ4F1RLFN6AMA3395" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/KPIs/" data-ibxp-file="share_growth.fex"></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_42" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_43" data-ibxp-maximized="false" data-ibxp-show-title="false" data-ibxp-show-toolbar="false" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="4" data-ibxp-grid-y="0" data-ibxp-grid-width="4" data-ibxp-grid-height="2" data-ibxp-ss-id="CONTAINER-KOEB6K331B2ZDLHEO1291" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="link_tile" data-ibxp-title="@STR_PANE_TITLE_44" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_45" data-ibxp-ss-id="CONTENT-KOEB6K5C1D7HFM5X2990" data-ibxp-iframe-name="" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-tile-content-path="" data-ibxp-tile-back-path="" data-ibxp-tile-target="large" data-ibxp-tile-params="false"></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_10" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_11" data-ibxp-maximized="false" data-ibxp-show-title="false" data-ibxp-show-toolbar="false" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="8" data-ibxp-grid-y="0" data-ibxp-grid-width="2" data-ibxp-grid-height="2" data-ibxp-ss-id="CONTAINER-KOEAV5901RG9H2IOG5748" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_46" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_47" data-ibxp-ss-id="CONTENT-KOEAV59L15EPU5XES1167" data-ibxp-iframe-name="CONTENT-KOEAV59L15EPU5XES1167" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/KPIs/" data-ibxp-file="loan_growth.fex"></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_14" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_15" data-ibxp-maximized="false" data-ibxp-show-title="false" data-ibxp-show-toolbar="false" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="10" data-ibxp-grid-y="0" data-ibxp-grid-width="2" data-ibxp-grid-height="2" data-ibxp-ss-id="CONTAINER-KOEAVTJ91KBIHBLV92253" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_48" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_49" data-ibxp-ss-id="CONTENT-KOEAVTJV1WL7S8F544844" data-ibxp-iframe-name="CONTENT-KOEAVTJV1WL7S8F544844" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/KPIs/" data-ibxp-file="member_growth.fex"></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_18" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_19" data-ibxp-maximized="false" data-ibxp-show-title="true" data-ibxp-show-toolbar="true" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="0" data-ibxp-grid-y="2" data-ibxp-grid-width="4" data-ibxp-grid-height="4" data-ibxp-ss-id="CONTAINER-KOEAXCIK12KAOQDTK13" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_20" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_21" data-ibxp-ss-id="CONTENT-KOEAXCJ11M3CHPLUP6254" data-ibxp-iframe-name="CONTENT-KOEAXCJ11M3CHPLUP6254" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/Widgets/" data-ibxp-file="share_balance_by_product.fex"></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_22" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_23" data-ibxp-maximized="false" data-ibxp-show-title="true" data-ibxp-show-toolbar="true" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="4" data-ibxp-grid-y="2" data-ibxp-grid-width="4" data-ibxp-grid-height="4" data-ibxp-ss-id="CONTAINER-KOEAX5R81HOSQKSRS1195" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_24" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_25" data-ibxp-ss-id="CONTENT-KOEAX5RS1IMZNOJ24925" data-ibxp-iframe-name="CONTENT-KOEAX5RS1IMZNOJ24925" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/Widgets/" data-ibxp-file="balance_by_loan_type.fex"></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_26" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_27" data-ibxp-maximized="false" data-ibxp-show-title="true" data-ibxp-show-toolbar="true" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="8" data-ibxp-grid-y="2" data-ibxp-grid-width="4" data-ibxp-grid-height="4" data-ibxp-ss-id="CONTAINER-KOEAWNUL1LFRA4DK25134" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_50" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_51" data-ibxp-ss-id="CONTENT-KOEAWNV217VL2ZTTF1915" data-ibxp-iframe-name="CONTENT-KOEAWNV217VL2ZTTF1915" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/Widgets/" data-ibxp-file="number_of_accounts_by_branch.fex"></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_30" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_31" data-ibxp-maximized="false" data-ibxp-show-title="true" data-ibxp-show-toolbar="true" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="0" data-ibxp-grid-y="6" data-ibxp-grid-width="6" data-ibxp-grid-height="5" data-ibxp-ss-id="CONTAINER-KOEAYO021CFAVZSD8113" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_32" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_33" data-ibxp-ss-id="CONTENT-KOEAYO0K19Y4DYF492430" data-ibxp-iframe-name="CONTENT-KOEAYO0K19Y4DYF492430" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/Widgets/" data-ibxp-file="member_trends.fex"></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_34" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_35" data-ibxp-maximized="false" data-ibxp-show-title="true" data-ibxp-show-toolbar="true" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="6" data-ibxp-grid-y="6" data-ibxp-grid-width="6" data-ibxp-grid-height="5" data-ibxp-ss-id="CONTAINER-KOEAWZJL1MZ3CVFCE3426" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_36" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_37" data-ibxp-ss-id="CONTENT-KOEAWZK3197XKDF8V3652" data-ibxp-iframe-name="CONTENT-KOEAWZK3197XKDF8V3652" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/Widgets/" data-ibxp-file="branch_loan_account_insights.fex"></div>
+						</div>
+					</div>
+					<!--endsections-->
+				</div>
+			</div>
+		</markup-block>
+		<markup-block>
+			<div class="pd-internal-stylesheet">
+				.page-placeholder {margin-left: 20px;} .PAGE-KOEAUOT51BWJJYZP81616 .pd-regular-filter-wrapper .pd-filter-grid {padding: 0px 10px;} .PAGE-KOEAUOT51BWJJYZP81616 .pd-page-canvas {padding-top: 10px;} .PAGE-KOEAUOT51BWJJYZP81616 .pd-page-canvas .pd-page-acc-section:last-child .grid-stack.pd-top-section {margin-bottom: 10px;}.PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section {margin: 0px 10px 0px 10px;} .PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.grid-stack-item-content {padding: 10px;} .PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-e,.PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-se {right: 5px;} .PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-s,.PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-se,.PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-sw {bottom: 5px;} .PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-w,.PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-sw {left: 5px;} .PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-placeholder &gt;.placeholder-content {top: 10px;right: 10px;bottom: 10px;left: 10px;} .PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-e,.PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-se {right: -5px;} .PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-s,.PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-se,.PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-sw {bottom: -5px;} .PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-w,.PAGE-KOEAUOT51BWJJYZP81616 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-sw {left: -5px;}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				>
+			</div>
+			<!--endis-->
+		</markup-block>
+		<markup-block>
+			<pgx-filters>
+				<![CDATA[[]]]>
+			</pgx-filters>
+			<!--endpgxfilters-->
+		</markup-block>
+		<markup-block>
+			<pgx-wfd>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/KPIs/loans_to_share.fex" run="false" runBD="true"></pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/KPIs/share_growth.fex" run="false" runBD="true"></pgx-wfd-path>
+				<pgx-wfd-path path="" run="false" runBD="true"></pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/KPIs/loan_growth.fex" run="false" runBD="true"></pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/KPIs/member_growth.fex" run="false" runBD="true"></pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/Widgets/share_balance_by_product.fex" run="false" runBD="true"></pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/Widgets/balance_by_loan_type.fex" run="false" runBD="true"></pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/Widgets/number_of_accounts_by_branch.fex" run="false" runBD="true"></pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/Widgets/member_trends.fex" run="false" runBD="true"></pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/Widgets/branch_loan_account_insights.fex" run="false" runBD="true"></pgx-wfd-path>
+			</pgx-wfd>
+			<!--endpgxwfd-->
+		</markup-block>
+	</markup>
+	<scripts></scripts>
+</ibx-res-bundle>

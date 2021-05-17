@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ibx-res-bundle name="page_res.xml">
+	<pgx-meta>
+		<pgx-version>1.3</pgx-version>
+		<pgx-mode>MODE_ASSEMBLE</pgx-mode>
+		<pgx-hash>a05e83ed2b71523017bfcb8c640a1d0ed4df7cef</pgx-hash>
+	</pgx-meta>
+	<string-file src="page.prop?IBFS_format=pgx"/>
+	<strings></strings>
+	<styles></styles>
+	<markup>
+		<markup-block>
+			<div class="pd-page-wrapper">
+				<div data-ibx-type="pdPage" data-ibxp-title="@STR_PAGE_HEADING" data-ibxp-description="@STR_PAGE_DESCRIPTION" data-ibxp-show-header="false" data-ibxp-show-toolbar="true" data-ibxp-show-refresh="true" data-ibxp-show-export="true" data-ibxp-show-pdf="true" data-ibxp-show-image="true" data-ibxp-filter-type="bottom" data-ibxp-filter-open="true" data-ibxp-filter-width="" data-ibxp-theme="IBFS:/WFC/Global/Themes/Standard/Default/theme.css" data-ibxp-size-class="pd-style-heading3" data-ibxp-ss-id="PAGE-KOKCEIN61BBHU6V4N2936" data-ibxp-custom-class="" data-ibxp-hidden="false" data-ibxp-workbook="false" data-ibxp-show-embedded-js="true" data-ibxp-show-embedded-css="true" data-ibxp-max-width="">
+					<div data-ibx-type="pdFilterGrid" data-ibxp-column-count="4" data-ibxp-ss-id="FILTERGRID-KOKCEIU115VIYYLHV2949" data-ibxp-color-class="pd-style-default-color" data-ibxp-custom-class="">
+						<div data-ibx-type="pdFilterCell" data-ibxp-justify="center" data-ibxp-col-span="1" data-ibxp-align="start" data-ibxp-locked="false" data-ibxp-ss-id="FILTERCELL-KOKCEIU31YFUEYN7P702" data-ibxp-custom-class="">
+							<div data-ibx-type="pdFilterPanel" data-ibxp-content-direction="column" data-ibxp-content-align="stretch" data-ibxp-label-align="center" data-ibxp-label-pos="top" data-ibxp-size="max" data-ibxp-split="auto" data-ibxp-ss-id="FILTERPANEL-KOKCJ62H1PP6VHRN2765" data-ibxp-custom-class="" data-ibxp-font-size-class="pd-style-normal" data-ibxp-amper-is-pill="false" data-ibxp-amper-type="amper_range" data-ibxp-amper-search="false" data-ibxp-amper-selection-controls="false" data-ibxp-amper-name="LOAN_END_OF_MONTH_FROM" data-ibxp-amper-format="MDYY" data-ibxp-amper-multiselect="false" data-ibxp-amper1-name="LOAN_END_OF_MONTH_FROM" data-ibxp-amper1-format="MDYY" data-ibxp-amper1-multiselect="false" data-ibxp-amper2-name="LOAN_END_OF_MONTH_TO" data-ibxp-amper2-format="MDYY" data-ibxp-amper2-multiselect="false" data-ibxp-amper-range-label-text="@STR_FC_RANGE_LABEL_2"></div>
+						</div>
+						<div data-ibx-type="pdFilterCell" data-ibxp-justify="center" data-ibxp-col-span="1" data-ibxp-align="start" data-ibxp-locked="false" data-ibxp-ss-id="FILTERCELL-KOKCEIU41F1FZLPGF2172" data-ibxp-custom-class="">
+							<div data-ibx-type="pdFilterPanel" data-ibxp-content-direction="column" data-ibxp-content-align="stretch" data-ibxp-label-align="center" data-ibxp-label-pos="top" data-ibxp-size="max" data-ibxp-split="auto" data-ibxp-ss-id="FILTERPANEL-KOKCF1271R4YG56R63589" data-ibxp-custom-class="" data-ibxp-font-size-class="pd-style-normal" data-ibxp-amper-is-pill="false" data-ibxp-amper-type="amper_select" data-ibxp-amper-label-text="@STR_FC_LABEL_3" data-ibxp-amper-search="false" data-ibxp-amper-selection-controls="false" data-ibxp-amper-show-all="true" data-ibxp-amper-name="AGE_RANGE" data-ibxp-amper-format="A10V" data-ibxp-amper-multiselect="true"></div>
+						</div>
+						<div data-ibx-type="pdFilterCell" data-ibxp-justify="center" data-ibxp-col-span="1" data-ibxp-align="start" data-ibxp-locked="false" data-ibxp-ss-id="FILTERCELL-KOKCEIU517AGHN6AF34" data-ibxp-custom-class=""></div>
+						<div data-ibx-type="pdFilterCell" data-ibxp-justify="center" data-ibxp-col-span="1" data-ibxp-align="start" data-ibxp-locked="false" data-ibxp-ss-id="FILTERCELL-KOKCEIU61Y48HX4WR105" data-ibxp-custom-class=""></div>
+					</div>
+					<!--endgrid-->
+					<div data-ibx-type="pdPageSection" data-ibxp-collapsed="false" data-ibxp-description="@STR_SECTION_DESCRIPTION_1" data-ibxp-collapsible="false" data-ibxp-ss-id="SECTION-KOKCEIN62GXGN4G6Z3137" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color" data-ibxp-cell-height="60" data-ibxp-width="12">
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_4" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_5" data-ibxp-maximized="false" data-ibxp-show-title="true" data-ibxp-show-toolbar="true" data-ibxp-lock-content="false" data-ibxp-es-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/My_Folder/Other_Visualizations" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="0" data-ibxp-grid-y="0" data-ibxp-grid-width="6" data-ibxp-grid-height="12" data-ibxp-ss-id="CONTAINER-KOKCF0L41407786D5729" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_6" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_7" data-ibxp-ss-id="CONTENT-KOKCF0LS1BJB3J8Z6323" data-ibxp-iframe-name="CONTENT-KOKCF0LS1BJB3J8Z6323" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/My_Folder/" data-ibxp-file="loan_balance.fex"></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="carousel" data-ibxp-title="@STR_CONT_TITLE_8" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_9" data-ibxp-maximized="false" data-ibxp-show-title="true" data-ibxp-show-toolbar="true" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="6" data-ibxp-grid-y="0" data-ibxp-grid-width="6" data-ibxp-grid-height="12" data-ibxp-ss-id="CONTAINER-KOKCFMZM1MAQZ4IGC8135" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_10" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_11" data-ibxp-ss-id="CONTENT-KOKCFN0B1IUY65IFG97" data-ibxp-iframe-name="CONTENT-KOKCFN0B1IUY65IFG97" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/My_Folder/" data-ibxp-file="loan_locations.fex"></div>
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_12" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_13" data-ibxp-ss-id="CONTENT-KOKCI55M1WX1LIU4G1956" data-ibxp-iframe-name="CONTENT-KOKCI55M1WX1LIU4G1956" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/My_Folder/" data-ibxp-file="loans_by_type.fex"></div>
+						</div>
+					</div>
+					<!--endsections-->
+				</div>
+			</div>
+		</markup-block>
+		<markup-block>
+			<div class="pd-internal-stylesheet">
+								.page-placeholder {margin-left: 20px;} .PAGE-KOKCEIN61BBHU6V4N2936 .pd-regular-filter-wrapper .pd-filter-grid {padding: 0px 10px;} .PAGE-KOKCEIN61BBHU6V4N2936 .pd-page-canvas {padding-top: 10px;} .PAGE-KOKCEIN61BBHU6V4N2936 .pd-page-canvas .pd-page-acc-section:last-child .grid-stack.pd-top-section {margin-bottom: 10px;}.PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section {margin: 0px 10px 0px 10px;} .PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.grid-stack-item-content {padding: 10px;} .PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-e,.PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-se {right: 5px;} .PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-s,.PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-se,.PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-sw {bottom: 5px;} .PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-w,.PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-sw {left: 5px;} .PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-placeholder &gt;.placeholder-content {top: 10px;right: 10px;bottom: 10px;left: 10px;} .PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-e,.PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-se {right: -5px;} .PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-s,.PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-se,.PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-sw {bottom: -5px;} .PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-w,.PAGE-KOKCEIN61BBHU6V4N2936 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-sw {left: -5px;}
+								
+								
+								.FILTERPANEL-KOKCJ62H1PP6VHRN2765 .pd-amper-control {max-height: ;}
+								
+								.FILTERPANEL-KOKCF1271R4YG56R63589 .pd-amper-control {max-height: ;}
+								
+								
+								
+								
+								
+								
+								
+								
+								&gt;
+							>
+			</div>
+			<!--endis-->
+		</markup-block>
+		<markup-block>
+			<pgx-filters>
+				<![CDATA[[{"name":"LOAN_END_OF_MONTH_FROM","format":"MDYY","multiselect":false,"parent":null,"options":{"type":"amper_date","contentDirection":"column","contentAlign":"stretch","labelAlign":"center","labelPos":"top","size":"max","split":"auto","maxHeight":"","ssId":"FILTERPANEL-KOKCF11Y1QFKW7C5D778","customClass":"","labelText":"","amperCtrlTooltip":"","globalName":"","layoutDirection":"","optional":true,"multiple":false,"placeholder":"","search":false,"selectionControls":false,"showAll":true,"allLabel":"","defaultValue":"","defaultValue2":"","userDefaultValues":null,"userDefaultValues2":null,"sortable":false,"isPinned":false,"isGT":false}},{"name":"LOAN_END_OF_MONTH_TO","format":"MDYY","multiselect":false,"parent":null,"options":{"type":"amper_date","contentDirection":"column","contentAlign":"stretch","labelAlign":"center","labelPos":"top","size":"max","split":"auto","maxHeight":"","ssId":"FILTERPANEL-KOKCF1231IXKG4JGO794","customClass":"","labelText":"","amperCtrlTooltip":"","globalName":"","layoutDirection":"","optional":true,"multiple":false,"placeholder":"","search":false,"selectionControls":false,"showAll":true,"allLabel":"","defaultValue":"","defaultValue2":"","userDefaultValues":null,"userDefaultValues2":null,"sortable":false,"isPinned":false,"isGT":false}},{"name":"AGE_RANGE","format":"A10V","multiselect":true,"parent":null,"options":{"type":"amper_select","contentDirection":"column","contentAlign":"stretch","labelAlign":"center","labelPos":"top","size":"max","split":"auto","maxHeight":"","ssId":"FILTERPANEL-KOKCF1271R4YG56R63589","customClass":"","labelText":"","amperCtrlTooltip":"","globalName":"","layoutDirection":"","optional":true,"multiple":true,"placeholder":"","search":false,"selectionControls":false,"showAll":true,"allLabel":"","defaultValue":"","defaultValue2":"","userDefaultValues":null,"userDefaultValues2":null,"sortable":false,"isPinned":false,"isGT":false}}]]]>
+			</pgx-filters>
+			<!--endpgxfilters-->
+		</markup-block>
+		<markup-block>
+			<pgx-wfd>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/My_Folder/loan_balance.fex" run="true" runBD="true">
+					<pgx-wfd-amper name="LOAN_END_OF_MONTH_FROM" format="MDYY" operation="OR" multiselect="false" defaultValue="" />
+					<pgx-wfd-amper name="LOAN_END_OF_MONTH_TO" format="MDYY" operation="OR" multiselect="false" defaultValue="" />
+					<pgx-wfd-amper name="AGE_RANGE" format="A10V" operation="OR" multiselect="true" defaultValue="" />
+				</pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/My_Folder/loan_locations.fex" run="false" runBD="true">
+					<pgx-wfd-amper name="LOAN_END_OF_MONTH_FROM" format="MDYY" operation="OR" multiselect="false" defaultValue="" />
+					<pgx-wfd-amper name="LOAN_END_OF_MONTH_TO" format="MDYY" operation="OR" multiselect="false" defaultValue="" />
+					<pgx-wfd-amper name="AGE_RANGE" format="A10V" operation="OR" multiselect="true" defaultValue="" />
+				</pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/CU_Workshop/Pre-built/Content/My_Folder/loans_by_type.fex" run="false" runBD="true">
+					<pgx-wfd-amper name="LOAN_END_OF_MONTH_FROM" format="MDYY" operation="OR" multiselect="false" defaultValue="" />
+					<pgx-wfd-amper name="LOAN_END_OF_MONTH_TO" format="MDYY" operation="OR" multiselect="false" defaultValue="" />
+					<pgx-wfd-amper name="AGE_RANGE" format="A10V" operation="OR" multiselect="true" defaultValue="" />
+				</pgx-wfd-path>
+			</pgx-wfd>
+			<!--endpgxwfd-->
+		</markup-block>
+	</markup>
+	<scripts></scripts>
+</ibx-res-bundle>
