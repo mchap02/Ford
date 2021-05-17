@@ -1,0 +1,61 @@
+ENGINE INT CACHE SET ON
+SET PAGE-NUM=NOLEAD
+SET SQUEEZE=ON
+-DEFAULTH &WF_HTMLENCODE=ON;
+SET HTMLENCODE=&WF_HTMLENCODE
+
+SET HTMLCSS=ON
+-DEFAULTH &WF_EMPTYREPORT=ON;
+SET EMPTYREPORT=&WF_EMPTYREPORT
+
+SET EMBEDHEADING=ON
+SET GRAPHDEFAULT=OFF
+SET COMPONENT=TableChart_1
+SET ARVERSION=2
+-DEFAULTH &WF_TITLE='WebFOCUS Report';
+GRAPH FILE cuainsights/ancillary/cua_tables
+-* Created by Designer for Graph
+SUM CUA_TABLES.LOANACCOUNT.LOANACCOUNT_CURRENTBALANCE
+CNT.CUA_TABLES.MEMBER.MEMBER_NUMBER AS '# of Members'
+BY CUA_TABLES.OPENEDBRANCH.BRANCH_POINT
+ON GRAPH PCHOLD FORMAT JSCHART
+ON GRAPH SET VZERO OFF
+ON GRAPH SET GRWIDTH 1
+ON GRAPH SET HAXIS 1008.0
+ON GRAPH SET VAXIS 768.0
+ON GRAPH SET LOOKGRAPH BUBBLEMAP
+ON GRAPH SET EMBEDHEADING ON
+ON GRAPH SET AUTOFIT ON
+ON GRAPH SET STYLE *
+INCLUDE=IBFS:/WFC/Global/Themes/Standard/Default/theme.sty,$
+TYPE=REPORT, TITLETEXT='Chart1', ORIENTATION=LANDSCAPE, ARREPORTSIZE=DIMENSION, ARFILTER_TARGET='*', CHART-LOOK=com.esri.map, ARGRAPHENGINE=JSCHART, $
+TYPE=DATA, COLUMN=N2, BUCKET=color, $
+TYPE=DATA, COLUMN=N3, BUCKET=size, $
+*GRAPH_SCRIPT
+
+*GRAPH_JS_FINAL
+"extensions": {
+    "com.esri.map": {
+        "overlayLayers":             [
+                {
+                    "ibiDataLayer": {
+                        "map-geometry": {
+                            "map_by_field": "CUA_TABLES.OPENEDBRANCH.BRANCH_POINT"
+                        }
+                    }
+                }
+            ],
+        "baseMapInfo": {
+            "customBaseMaps":                 [
+                    {
+                        "ibiBaseLayer": "gray"
+                    }
+                ]
+        }
+    }
+}
+
+*END
+ENDSTYLE
+END
+
